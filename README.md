@@ -17,6 +17,22 @@ Assurez-vous d'avoir [Node.js](https://nodejs.org/) installé sur votre système
    git clone [https://github.com/TheFrogenSource/TuxDio.git](https://github.com/TheFrogenSource/TuxDio.git)
    cd TuxDio
 
+   ---
+
+## 📦 Remerciements et Logiciels Tiers
+
+Cette application est propulsée par **Electron**, qui intègre les technologies **Chromium** et **Node.js**. TuxDio repose également sur plusieurs bibliothèques de code source ouvert (open-source). Leurs licences respectives peuvent être consultées dans le répertoire `node_modules` après l'installation.
+
+* [Electron](https://github.com/electron/electron) (Licence MIT)
+* [Node.js](https://github.com/nodejs/node) (Licence MIT)
+* [Chromium](https://www.chromium.org/Home) (Licence BSD)
+
+---
+
+## ⚖️ Avis Juridique (Avertissement)
+
+**TuxDio** est un projet indépendant et n'est ni affilié, ni endossé, ni soutenu officiellement par la Société Radio-Canada. Tous les logos, marques de commerce et contenus diffusés via le portail demeurent la propriété exclusive de la Société Radio-Canada. Cette application est fournie « telle quelle », sans garantie d'aucune sorte.
+
 # TuxDio 🐧📻 EN:
 
 
@@ -70,3 +86,15 @@ See the `LICENSE` file for the full legal text.
 Contributions are welcome! Feel free to open an issue or submit a pull request to help improve **TuxDio**.
 
 *Developed by [TheFrogenSource](https://github.com/TheFrogenSource)*
+
+---
+
+## 📦 Acknowledgments & Third-Party Software
+
+This application is built using **Electron**, which includes **Chromium** and **Node.js**. 
+It also relies on several open-source libraries. You can find their respective licenses 
+within the `node_modules` directory after installation.
+
+* [Electron](https://github.com/electron/electron) (MIT License)
+* [Node.js](https://github.com/nodejs/node) (MIT License)
+* [Chromium](https://www.chromium.org/Home) (BSD License)
