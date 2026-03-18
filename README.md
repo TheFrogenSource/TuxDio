@@ -14,8 +14,8 @@ Assurez-vous d'avoir [Node.js](https://nodejs.org/) installé sur votre système
 
 1. **Cloner le dépôt :**
    ```bash
-   git clone [https://github.com/TheFrogenSource/TuxDio.git](https://github.com/TheFrogenSource/TuxDio.git)
-   cd TuxDio
+   git clone https://github.com/TheFrogenSource/TuxDio.git
+cd TuxDio
 
    ---
 
@@ -55,8 +55,8 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your system before p
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/TheFrogenSource/TuxDio.git](https://github.com/TheFrogenSource/TuxDio.git)
-    cd TuxDio
+    git clone https://github.com/TheFrogenSource/TuxDio.git
+cd TuxDio
     ```
 
 2.  **Install dependencies:**
