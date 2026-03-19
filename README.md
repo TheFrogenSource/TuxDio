@@ -40,6 +40,7 @@ Cette application est propulsée par **Electron**, qui intègre les technologies
 * [Electron](https://github.com/electron/electron) (Licence MIT)
 * [Node.js](https://github.com/nodejs/node) (Licence MIT)
 * [Chromium](https://www.chromium.org/Home) (Licence BSD)
+* [Icon] (https://commons.wikimedia.org/wiki/File:Polar_bear_clip_art.svg) (CC0 1.0 Lience)
 
 ---
 
@@ -113,3 +114,4 @@ within the `node_modules` directory after installation.
 * [Electron](https://github.com/electron/electron) (MIT License)
 * [Node.js](https://github.com/nodejs/node) (MIT License)
 * [Chromium](https://www.chromium.org/Home) (BSD License)
+* [Icon] (https://commons.wikimedia.org/wiki/File:Polar_bear_clip_art.svg) (CC0 1.0 Lience)
